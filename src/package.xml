@@ -1,27 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>test</fullName>
-    <apiAccessLevel>Unrestricted</apiAccessLevel>
-    <types>
-        <members>SelectOpt</members>
-        <members>Test</members>
-        <members>TestClass</members>
-        <members>campingController</members>
-        <members>campingController2</members>
-        <members>getSessionId</members>
-        <members>loadFields</members>
-        <members>loadObjects</members>
-        <members>testloadObjects</members>
-        <members>testloadfields</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
-        <members>Custom_Test</members>
-        <members>NumberLookUpApiPage</members>
-        <members>ShowImage</members>
-        <members>TestPage</members>
-        <name>ApexPage</name>
-    </types>
     <types>
         <members>*</members>
         <name>AuraDefinitionBundle</name>
